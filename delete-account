@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Delete your FibroPulse account</title>
+<style>
+  :root { --bg:#f6f2fa; --card:#ffffff; --text:#231a2b; --muted:#5e5469; --accent:#5E3A78; --line:#e6dcee; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#14111b; --card:#1f1928; --text:#f1eaf6; --muted:#b9aec6; --accent:#b79ad0; --line:#3a2d4a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family: Roboto, "Helvetica Neue", Arial, sans-serif; line-height:1.65; }
+  main { max-width:760px; margin:0 auto; padding:32px 16px 64px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:28px 24px; }
+  h1 { margin:0 0 4px; font-size:1.8rem; color:var(--accent); }
+  h2 { margin:28px 0 8px; font-size:1.2rem; }
+  .muted { color:var(--muted); font-size:.95rem; }
+  ol, ul { padding-left:1.3rem; }
+  li { margin-bottom:6px; }
+  a { color:var(--accent); }
+</style>
+</head>
+<body>
+<main>
+<div class="card">
+  <h1>Delete your FibroPulse account</h1>
+  <p class="muted">FibroPulse, developed by Gérard du Plessis</p>
+
+  <p>You can delete your FibroPulse account and all the information linked to it at any time. There are two ways to do it.</p>
+
+  <h2>Option 1: in the app (fastest)</h2>
+  <ol>
+    <li>Open FibroPulse and sign in.</li>
+    <li>Tap the account icon at the top right, then <strong>Settings</strong>.</li>
+    <li>Scroll to <strong>Delete my account</strong>.</li>
+    <li>Type <strong>DELETE</strong> to confirm, then tap <strong>Delete everything</strong>.</li>
+  </ol>
+  <p>Your account is deleted straight away. If you want a copy of your records first, use <strong>Download CSV</strong> or <strong>Download JSON</strong> in the same Settings page before you delete.</p>
+
+  <h2>Option 2: by email</h2>
+  <p>If you can no longer use the app, for example because you uninstalled it or cannot sign in, send us an email:</p>
+  <ul>
+    <li>To: <a href="mailto:fibropulse.app@gmail.com?subject=Delete%20my%20FibroPulse%20account">fibropulse.app@gmail.com</a></li>
+    <li>Subject: <strong>Delete my FibroPulse account</strong></li>
+    <li>Send it from the email address you used to sign up, so we can confirm the account is yours.</li>
+  </ul>
+  <p>We will delete the account and reply to confirm, normally within 30 days.</p>
+
+  <h2>What is deleted</h2>
+  <p>Deleting your account permanently removes your sign-in details and everything linked to them: your profile, daily check-ins, medications and medication records, diet history, food tags, and the patterns calculated from your records. We do not keep a copy.</p>
+  <p>Deletion cannot be undone. If you want to use FibroPulse again later, you will need to create a new account.</p>
+
+  <h2>Questions</h2>
+  <p>Write to <a href="mailto:fibropulse.app@gmail.com">fibropulse.app@gmail.com</a>. You can also read our <a href="../">Privacy Policy</a>.</p>
+</div>
+</main>
+</body>
+</html>
